@@ -24,7 +24,7 @@ def main():
         b = int(input("Second exponet:\n"))
         result = multiply_exponents(a,b)
         clear_screen()
-        print(f"REsulting exponet: {result}")
+        print(f"Rssulting exponet: {result}")
     elif choice == "2":
         clear_screen()
         a = int(input("First exponet:\n"))
