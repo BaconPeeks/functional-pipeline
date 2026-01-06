@@ -1,6 +1,6 @@
 # Functional Math CLI
 
-A small command-line math toolkit written in Python to reinforce algebra and
+A small command-line math toolkit written in Python to reinforce
 trigonometry concepts using functional programming principles.
 
 This project is intentionally designed as a **learning tool**, not production software.
